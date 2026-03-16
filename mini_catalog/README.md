@@ -44,3 +44,7 @@ lib/
     └── product_card.dart
 ```
 
+## Çalıştırma aşamaları 
+
+cd mini_catalog
+flutter run -d chrome 
